@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Triportal": {
+      "applicationId": "nvNbDRRm3lmBFq7n46g32MRZKmADJGyyzjdSbQrT"
+    },
+    "_default": {
+      "link": "Triportal"
+    }
+  }
+}
